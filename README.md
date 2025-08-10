@@ -1,0 +1,1 @@
+# openvino_medical_ai_demo
